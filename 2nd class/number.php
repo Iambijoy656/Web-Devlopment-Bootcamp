@@ -44,6 +44,29 @@ $c=1.2558;
 
 //number checking function
 
-echo  is_integer($b);
+// echo  is_integer($b);
+// echo "<br>";
+// echo  is_float($c);
+
+//conversion
+
+$num="30";
+
+// echo getType($num); 
+
+// $converted = (float) $num;
+//  echo "<br>";
+// echo getType($converted);
+
+//Nomber function
+
+// echo pow(2, 3);
+// echo "<br>";
+// echo sqrt(16);
+
+
+// echo round(4.28587);
+
+echo ceil(4.3);
 echo "<br>";
-echo  is_float($c);
+echo floor(6.36);
