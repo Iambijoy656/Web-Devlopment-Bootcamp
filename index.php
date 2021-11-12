@@ -14,8 +14,8 @@ require_once 'header.php';
                    <li><a href="#">gallary</a></li>
                    <li><a href="#">Contact</a></li>
                    <li><a href="#">Admin</a></li>
-                   <li><a href="#">sing Up</a></li>
-                   <li><a href="#">login</a></li>
+                   <li><a href="signup.php">sing Up</a></li>
+                   <li><a href="login.php">login</a></li>
                    
                    
                </ul>
